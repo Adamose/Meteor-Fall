@@ -1,4 +1,4 @@
-# Meteor-Fall
+# Meteor Fall
 
 Space Invaders but with a twist, defend the earth from a endless fall of meteors. Destroy all meteors before they touch the earth and make sure to not let one hit your spaceship.
 
