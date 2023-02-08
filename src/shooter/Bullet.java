@@ -23,7 +23,7 @@ public class Bullet {
 		heigth = 15;
 		width = 10;
 		x = X;
-		y = 500;
+		y = 480;
 		velocity = 4;
 		dead = false;
 
